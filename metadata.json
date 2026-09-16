@@ -1,0 +1,6 @@
+{
+  "name": "CERO COFFEE - Specialty Coffee & Lounge",
+  "description": "Official website for CERO COFFEE at Shell Bulenga, Kampala. Open 24/7 with specialty Ugandan roasts, artisan brews, table reservations, and secure online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
